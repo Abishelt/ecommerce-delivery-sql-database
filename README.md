@@ -15,7 +15,7 @@ A relational database designed for a multi-vendor e-commerce and delivery platfo
 - `/docs/`
   - `Database_Structure.pdf` (schema documentation)
   - `ecomerce.pdf` or `ecomerce.md` (project report)
-- `/db/` (optional)
+- `/db/` 
   - `E_Comerce.db`
 
 ## How to run (SQLite)
